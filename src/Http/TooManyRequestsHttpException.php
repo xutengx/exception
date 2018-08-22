@@ -1,9 +1,9 @@
 <?php
 
 declare(strict_types = 1);
-namespace Gaara\Exception\Http;
+namespace Xutengx\Exception\Http;
 
-use Gaara\Exception\HttpException;
+use Xutengx\Exception\HttpException;
 
 class TooManyRequestsHttpException extends HttpException {
 

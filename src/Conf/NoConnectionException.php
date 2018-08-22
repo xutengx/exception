@@ -1,9 +1,9 @@
 <?php
 
 declare(strict_types = 1);
-namespace Gaara\Exception\Conf;
+namespace Xutengx\Exception\Conf;
 
-use Gaara\Exception\ConfException;
+use Xutengx\Exception\ConfException;
 
 class NoConnectionException extends ConfException {
 
